@@ -4,3 +4,4 @@
 ## Contributor
 - Bima Arya Wicaksana
 - Alvin Septiano
+- Fahruji
